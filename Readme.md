@@ -4,3 +4,5 @@ I have provided the Image same as the output in the Reference
 3. Run the EXE
 4. Adjust the parameters
 5. Save your image and see the DUCTS
+
+NOTE: THIS IS A VERY QUICK PROTOTYPE TUNING WILL BE REQUIRED TO GET THE BEST RESULTS.
